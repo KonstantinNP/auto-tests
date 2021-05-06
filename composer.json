@@ -1,0 +1,16 @@
+{
+    "name": "pukha/tests",
+    "description": "learning about automated tests",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Konstantin Pukha",
+            "email": "kosta0683@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "ext-mbstring": "*"
+    }
+}
